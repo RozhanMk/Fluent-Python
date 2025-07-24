@@ -1,6 +1,6 @@
 # Fluent-Python
 
-Fluent Python is an intermediate-level book that explores important features and concepts of the Python language. I recommend it to anyone who already knows basic Python and object-oriented programming. This book will level up your understanding in ways you might not anticipate.
+Fluent Python is an advanced-level book that explores important features and concepts of the Python language. I recommend it to anyone who already knows basic Python and object-oriented programming. This book will level up your understanding in ways you might not anticipate.
 
 Although it’s a heavy book (approximately 1,100 pages). Be patient, and try to apply its techniques in your own code.
 
